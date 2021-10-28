@@ -1,2 +1,2 @@
 # demo_git
-Just for testing!!
+This is just for testing!!
